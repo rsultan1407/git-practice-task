@@ -1,0 +1,8 @@
+DevOps Features
+
+- CI/CD Pipeline using Jenkins
+- Multi-node build execution
+- Automated frontend and backend deployment
+- Git integration with version control
+- Environment configuration using .env files
+- Monitoring and logging setup
