@@ -5,7 +5,6 @@
 **Interests:** Linux, AWS, Jenkins, Automation, Networking
 **Company** GENESYS INFO X
 
-
 ##  Skills
 - **Operating Systems:** Linux (Ubuntu)
 - **Cloud Platforms:** AWS (EC2, VPC, S3, IAM)
